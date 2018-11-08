@@ -6,27 +6,20 @@ void selectionSort(int array[], int n){
   
   int menor, tmp;
   
+  //seek the smallest element with respect to "i"
   for(i = 0; i < (n-1); i++){
     menor = i;
       for(j = (i + 1); j < n; j++){
         if(array[menor] > array[j])
           menor = j;
-          printf("%d\n",menor);
     }
+    
+    //change the values of the current position with the smaller
     if(array[i] != array[menor])
       tmp = array[menor];
       array[menor] = array[i];
       array[i] = tmp;
   }
-}
-
-void show(int array[],int n){
-  
-   printf("[ ");
-   for (i = 0; i < n; i++) {
-     printf("%d ", array[i]);
-   }
-   printf("] \n");
 }
 
 int main( ){
@@ -35,5 +28,4 @@ int main( ){
     int n = sizeof(array)/sizeof(array[0]);
   
     selectionSort(array, n);
-    show(array,n);
 }
