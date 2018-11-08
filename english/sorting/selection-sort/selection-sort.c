@@ -2,8 +2,6 @@
 
 int i,j;
 
-
-
 void selectionSort(int array[], int n){
   
   int menor, tmp;
@@ -22,14 +20,20 @@ void selectionSort(int array[], int n){
   }
 }
 
-
-
-
+void show(int array[],int n){
+  
+   printf("[ ");
+   for (i = 0; i < n; i++) {
+     printf("%d ", array[i]);
+   }
+   printf("] \n");
+}
 
 int main( ){
-
+  
     int array[] = {103,112,35,62,40,20};
     int n = sizeof(array)/sizeof(array[0]);
+  
     selectionSort(array, n);
-    mostrar(array,n);
+    show(array,n);
 }
