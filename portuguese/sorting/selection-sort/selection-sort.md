@@ -115,7 +115,7 @@ Quinta posição do vetor está ordenada, passamos para a próxima.
   <img src="/images/selection-sort/selection15.png">
 </p>
 
-#### 14º Passo
+#### 15º Passo
 Agora começando da sexta posição, não tem mais nenhuma posição para ser percorrida, ou seja, o 112 já está ordenado.
 
 <p align="center">
@@ -123,7 +123,7 @@ Agora começando da sexta posição, não tem mais nenhuma posição para ser pe
 </p>
 
 
-#### 15º Passo
+#### 16º Passo
 Agora sim, o vetor está completamente ordenado.
 
 <p align="center">
