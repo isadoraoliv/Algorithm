@@ -1,9 +1,9 @@
-## Selection Sort
+## Selection Sort / Ordenação por seleção
 
-A ordenação por seleção a cada passo, o vetor é percorrido de forma a selecionar o menor valor e colocá-lo na primeira posição do vetor. Agora que a primeira posição já está ordenada, descarta-se ela e repete o processo para a segunda posição, isto é feito para todas as posições do vetor.
+O selection sort a cada passo, o vetor é percorrido de forma a selecionar o menor valor e colocá-lo na primeira posição do vetor. Agora que a primeira posição já está ordenada, descarta-se ela e repete o processo para a segunda posição, isto é feito para todas as posições do vetor.
 
 #### Vetor não ordenado
-Exemplo de execução do selection sort com um vetor de 6 posições.
+Exemplo de execução do algoritmo selection sort com um vetor de 6 posições.
 
 <p align="center">
   <img src="/images/selection-sort/selection01.png">
@@ -129,5 +129,21 @@ Agora sim, o vetor está completamente ordenado.
 <p align="center">
   <img src="/images/selection-sort/selection17.png">
 </p>
+
+## Complexidade
+
+O selection sort compara a cada interação um elemento com os outros, visando encontrar o menor. Dessa forma, podemos entender que não existe um melhor caso mesmo que o vetor esteja ordenado ou em ordem inversa serão executados os dois laços do algoritmo, o externo e o interno, e a complexidade deste algoritmo será sempre O(n²).
+
+
+## Vantagens
+É um algoritmo simples de ser implementado em comparação aos demais.
+Não necessita de um vetor auxiliar.
+Por não usar um vetor auxiliar para realizar a ordenação, ele ocupa menos memória.
+É uns dos mais velozes na ordenação de vetores de tamanhos pequenos.
+
+## Desvantagens
+É um dos mais lentos para vetores de tamanhos grandes.
+Não é estável.
+Faz sempre O(n²) comparações, independente do vetor estar ordenado ou não.
 
 
