@@ -1,9 +1,15 @@
 ## Selection Sort
 
+The selection sort at each step, the vector is traversed in order to select the lowest value and place it in the first position of the vector. Now that the first position is already ordered, discard it and repeat the process for the second position, this is done for all positions of the vector.
+
+Unordered vector
+Example of execution of the algorithm selection sort with a vector of 6 positions.
+
 <p align="center">
   <img src="/images/selection-sort/selection01.png">
 </p>
 
+#### 1º Step
 
 <p align="center">
   <img src="/images/selection-sort/selection02.png">
