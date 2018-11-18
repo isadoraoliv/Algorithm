@@ -18,7 +18,7 @@ Neste caso, o menor valor é 20, seleciona-se ele.
 </p>
 
 #### 2º Passo
-Troca-se o valor da primeira posição o 112 com o menor que é 20.
+Troca-se o valor da primeira posição o 103 com o menor que é 20.
 
 <p align="center">
   <img src="/images/selection-sort/selection03.png">
