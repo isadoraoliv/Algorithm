@@ -132,7 +132,7 @@ Agora sim, o vetor está completamente ordenado.
 
 ## Complexidade
 
-O selection sort compara a cada interação um elemento com os outros, visando encontrar o menor. Dessa forma, podemos entender que não existe um melhor caso mesmo que o vetor esteja ordenado ou em ordem inversa serão executados os dois laços do algoritmo, o externo e o interno, e a complexidade deste algoritmo será sempre O(n²).
+O selection sort compara a cada interação um elemento com os outros, visando encontrar o menor. Dessa forma, podemos entender que não existe um melhor caso mesmo que o vetor esteja ordenado ou em ordem inversa serão executados os dois laços do algoritmo, o externo e o interno, e a complexidade deste algoritmo será sempre **O(n²)**.
 
 
 ## Vantagens
