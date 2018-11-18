@@ -41,7 +41,7 @@ Neste caso, o menor valor é 35, seleciona-se ele.
 </p>
 
 #### 5º Passo
-Troca-se o valor da segunda posição o 103 com o menor que é 35.
+Troca-se o valor da segunda posição o 112 com o menor que é 35.
 
 <p align="center">
   <img src="/images/selection-sort/selection06.png">
