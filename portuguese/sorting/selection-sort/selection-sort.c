@@ -8,7 +8,7 @@ void selectionSort(int array[], int n){
   
   int menor, tmp;
   
-  //buscar o menor elemento em relação a "i"
+  //percorrer o vetor e buscar o menor elemento em relação a "i"
   for(i = 0; i < (n-1); i++){
     menor = i;
       for(j = (i + 1); j < n; j++){
@@ -16,7 +16,7 @@ void selectionSort(int array[], int n){
           menor = j;
     }
     
-    //alterar os valores da posição atual com o menor
+    //encontrado o menor elemento, alterar os valores da posição atual com o menor
     if(array[i] != array[menor])
       tmp = array[menor];
       array[menor] = array[i];
