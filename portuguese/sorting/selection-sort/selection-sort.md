@@ -136,12 +136,14 @@ O selection sort compara a cada interação um elemento com os outros, visando e
 
 
 ## Vantagens
+
 * É um algoritmo simples de ser implementado em comparação aos demais.
 * Não necessita de um vetor auxiliar.
 * Por não usar um vetor auxiliar para realizar a ordenação, ele ocupa menos memória.
 * É uns dos mais velozes na ordenação de vetores de tamanhos pequenos.
 
 ## Desvantagens
+
 * É um dos mais lentos para vetores de tamanhos grandes.
 * Não é estável.
 * Faz sempre O(n²) comparações, independente do vetor estar ordenado ou não.
