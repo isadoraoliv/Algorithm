@@ -91,6 +91,8 @@ The value 62 is in its correct position, that is, the fourth position is already
 </p>
 
 #### 12º Step
+Now starting from the fifth position, we traverse the whole vector by comparing each position to find the smallest value.
+In this case, the lowest value is 113, we selected it.
 
 <p align="center">
   <img src="/images/selection-sort/selection13.png">
