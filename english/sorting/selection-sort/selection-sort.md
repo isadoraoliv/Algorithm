@@ -47,7 +47,7 @@ We exchange the value from the first position the 112 with the smaller that's 35
 </p>
 
 #### 6º Step
-First position of the vector is ordered, we move to the next one.
+Second position of the vector is ordered, we move to the next one.
 
 <p align="center">
   <img src="/images/selection-sort/selection07.png">
@@ -69,19 +69,22 @@ We exchange the value from the first position the 112 with the smaller that's 40
 </p>
 
 #### 9º Step
-
+Third position of the vector is ordered, we move to the next one.
 
 <p align="center">
   <img src="/images/selection-sort/selection10.png">
 </p>
 
 #### 10º Step
+Now starting from the fourth position, we traverse the whole vector by comparing each position to find the smallest value.
+In this case, the lowest value is 62, we selected it.
 
 <p align="center">
   <img src="/images/selection-sort/selection11.png">
 </p>
 
 #### 11º Step
+The value 62 is in its correct position, that is, the fourth position is already ordered and we move on to the next one.
 
 <p align="center">
   <img src="/images/selection-sort/selection12.png">
