@@ -99,26 +99,28 @@ In this case, the lowest value is 113, we selected it.
 </p>
 
 #### 13º Step
-
+We exchange the value from the first position the 112 with the smaller that's 103.
 
 <p align="center">
   <img src="/images/selection-sort/selection14.png">
 </p>
 
 #### 14º Step
+Fifth position of the vector is ordered, we move to the next one.
 
 <p align="center">
   <img src="/images/selection-sort/selection15.png">
 </p>
 
 #### 15º Step
-
+Now starting from the sixth position, there is no further position to go, that is, 112 is already ordered.
 
 <p align="center">
   <img src="/images/selection-sort/selection16.png">
 </p>
 
 #### 16º Step
+Now, the vector is completely ordered.
 
 <p align="center">
   <img src="/images/selection-sort/selection17.png">
