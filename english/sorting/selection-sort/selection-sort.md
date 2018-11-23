@@ -40,14 +40,14 @@ In this case, the lowest value is 35, we selected it.
 </p>
 
 #### 5º Step
-
+We exchange the value from the first position the 112 with the smaller that's 35.
 
 <p align="center">
   <img src="/images/selection-sort/selection06.png">
 </p>
 
 #### 6º Step
-
+First position of the vector is ordered, we move to the next one.
 
 <p align="center">
   <img src="/images/selection-sort/selection07.png">
