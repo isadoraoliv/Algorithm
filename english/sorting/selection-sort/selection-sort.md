@@ -140,7 +140,9 @@ The selection sort compares each interaction one element with the other, aiming 
 
 ## Disadvantage
 
-
+* It is one of the slowest for large-sized vectors.
+* It is not stable.
+* Always makes O (n²) comparisons, regardless of whether the vector is ordered or not.
 
 
 
