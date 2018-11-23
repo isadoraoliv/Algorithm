@@ -18,12 +18,14 @@ In this case, the lowest value is 20, we select it.
 </p>
 
 #### 2º Step
+We exchange the value from the first position the 103 with the smaller that's 20.
 
 <p align="center">
   <img src="/images/selection-sort/selection03.png">
 </p>
 
 #### 3º Step
+First position of the vector is ordered, we move to the next one.
 
 <p align="center">
   <img src="/images/selection-sort/selection04.png">
