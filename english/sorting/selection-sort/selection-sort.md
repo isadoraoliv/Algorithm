@@ -54,14 +54,15 @@ First position of the vector is ordered, we move to the next one.
 </p>
 
 #### 7º Step
-
+Now starting from the third position, we traverse the whole vector by comparing each position to find the smallest value.
+In this case, the lowest value is 40, we selected it.
 
 <p align="center">
   <img src="/images/selection-sort/selection08.png">
 </p>
 
 #### 8º Step
-
+We exchange the value from the first position the 112 with the smaller that's 40.
 
 <p align="center">
   <img src="/images/selection-sort/selection09.png">
