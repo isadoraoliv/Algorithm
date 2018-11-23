@@ -11,7 +11,7 @@ Example of execution of the algorithm selection sort with a vector of 6 position
 
 #### 1º Step
 Starting from the first position, the entire vector is scanned comparing each position to find the lowest value.
-In this case, the lowest value is 20, we select it.
+In this case, the lowest value is 20, we selected it.
 
 <p align="center">
   <img src="/images/selection-sort/selection02.png">
@@ -32,6 +32,8 @@ First position of the vector is ordered, we move to the next one.
 </p>
 
 #### 4º Step
+Now starting from the second position, we traverse the whole vector by comparing each position to find the smallest value.
+In this case, the lowest value is 35, we selected it.
 
 <p align="center">
   <img src="/images/selection-sort/selection05.png">
