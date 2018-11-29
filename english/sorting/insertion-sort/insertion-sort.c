@@ -18,3 +18,11 @@ void insertionSort(int array[], int n) {
     array[j + 1] = tmp;
    }
 }
+
+int main() {
+
+  int array[] = {22,13,107,9,5,18};
+  int n = sizeof(array)/sizeof(array[0]);
+  
+  insertionSort(array, n);
+}
