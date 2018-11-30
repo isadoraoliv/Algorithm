@@ -8,7 +8,14 @@ All the drawings were handmade by me. :D
 
 #### Portuguese
 
-Este repositório contém explicações e códigos dos principais algoritmos. Você poderá encontrar o conteúdo em dois idiomas inglês e português.
+Este repositório contém explicações e códigos dos principais algoritmos:
+
+- Sorting: 
+  - Insertion Sort
+  - Selection Sort
+
+
+
 
 Status do repositório: em progresso
 
