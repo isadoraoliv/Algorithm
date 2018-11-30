@@ -1,5 +1,7 @@
 #### English
-This repository contains explanations and codes of the main algorithms. You can find the content in two languages english and portuguese.
+This repository contains explanations and codes of the main algorithms.
+
+
 
 Repository Status: in progress
 
@@ -14,6 +16,8 @@ Este repositório contém explicações e códigos dos principais algoritmos:
   - Insertion Sort
   - Selection Sort
 
+- Árvore
+  - Árvore Binária
 
 
 
