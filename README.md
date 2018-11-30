@@ -1,6 +1,11 @@
 #### English
 This repository contains explanations and codes of the main algorithms.
 
+- Sorting
+  - Insertion Sort
+  - Selection Sort
+  - Quick Sort
+  - Merge Sort
 
 
 Repository Status: in progress
