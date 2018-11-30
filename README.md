@@ -7,6 +7,8 @@ This repository contains explanations and codes of the main algorithms.
   - Quick Sort
   - Merge Sort
 
+- Tree
+  - Binary Tree
 
 Repository Status: in progress
 
@@ -20,6 +22,7 @@ Este repositório contém explicações e códigos dos principais algoritmos:
 - Sorting: 
   - Insertion Sort
   - Selection Sort
+  - Quick Sort
 
 - Árvore
   - Árvore Binária
