@@ -39,3 +39,19 @@
 <p align="center">
   <img src="/images/insertion-sort/insertion10.png">
 </p>
+
+<p align="center">
+  <img src="/images/insertion-sort/insertion11.png">
+</p>
+
+<p align="center">
+  <img src="/images/insertion-sort/insertion12.png">
+</p>
+
+<p align="center">
+  <img src="/images/insertion-sort/insertion13.png">
+</p>
+
+<p align="center">
+  <img src="/images/insertion-sort/insertion14.png">
+</p>
