@@ -71,3 +71,14 @@
 <p align="center">
   <img src="/images/insertion-sort/insertion18.png">
 </p>
+<p align="center">
+  <img src="/images/insertion-sort/insertion19.png">
+</p>
+
+<p align="center">
+  <img src="/images/insertion-sort/insertion20.png">
+</p>
+
+<p align="center">
+  <img src="/images/insertion-sort/insertion21.png">
+</p>
