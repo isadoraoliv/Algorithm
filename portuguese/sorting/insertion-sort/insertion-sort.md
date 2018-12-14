@@ -94,3 +94,23 @@
 <p align="center">
   <img src="/images/insertion-sort/insertion24.png">
 </p>
+
+
+<p align="center">
+  <img src="/images/insertion-sort/insertion25.png">
+</p>
+
+
+<p align="center">
+  <img src="/images/insertion-sort/insertion26.png">
+</p>
+
+
+<p align="center">
+  <img src="/images/insertion-sort/insertion27.png">
+</p>
+
+
+<p align="center">
+  <img src="/images/insertion-sort/insertion28.png">
+</p>
