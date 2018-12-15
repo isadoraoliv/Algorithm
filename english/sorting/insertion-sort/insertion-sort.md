@@ -34,3 +34,11 @@
 <p align="center">
   <img src="/images/insertion-sort/insertion09.png">
 </p>
+
+<p align="center">
+  <img src="/images/insertion-sort/insertion10.png">
+</p>
+
+<p align="center">
+  <img src="/images/insertion-sort/insertion11.png">
+</p>
