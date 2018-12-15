@@ -15,3 +15,11 @@
 <p align="center">
   <img src="/images/insertion-sort/insertion04.png">
 </p>
+
+<p align="center">
+  <img src="/images/insertion-sort/insertion05.png">
+</p>
+
+<p align="center">
+  <img src="/images/insertion-sort/insertion06.png">
+</p>
