@@ -54,3 +54,16 @@
 <p align="center">
   <img src="/images/insertion-sort/insertion14.png">
 </p>
+
+<p align="center">
+  <img src="/images/insertion-sort/insertion15.png">
+</p>
+
+<p align="center">
+  <img src="/images/insertion-sort/insertion16.png">
+</p>
+
+<p align="center">
+  <img src="/images/insertion-sort/insertion17.png">
+</p>
+
