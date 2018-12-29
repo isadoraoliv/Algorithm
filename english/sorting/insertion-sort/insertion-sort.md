@@ -86,3 +86,7 @@
 <p align="center">
   <img src="/images/insertion-sort/insertion22.png">
 </p>
+
+<p align="center">
+  <img src="/images/insertion-sort/insertion23.png">
+</p>
