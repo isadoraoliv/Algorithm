@@ -67,3 +67,10 @@
   <img src="/images/insertion-sort/insertion17.png">
 </p>
 
+<p align="center">
+  <img src="/images/insertion-sort/insertion18.png">
+</p>
+
+<p align="center">
+  <img src="/images/insertion-sort/insertion19.png">
+</p>
