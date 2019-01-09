@@ -1,23 +1,10 @@
-#### English
-This repository contains explanations and codes of the main algorithms.
+## Algoritmo
 
-- Sorting
-  - Insertion Sort
-  - Selection Sort
-  - Quick Sort
-  - Merge Sort
+Escolha o idioma:
 
-- Tree
-  - Binary Tree
+[English](https://github.com/isadoraoliv/algorithm/blob/master/README/README_en.md) | [Português-BR](https://github.com/dfop02/algorithm/blob/master/README.md)
 
-Repository Status: in progress
-
-All the drawings were handmade by me. :D
-
-
-#### Portuguese
-
-Este repositório contém explicações e códigos dos principais algoritmos:
+### Este repositório contém explicações e códigos dos principais algoritmos:
 
 - Sorting: 
   - Insertion Sort
@@ -27,8 +14,13 @@ Este repositório contém explicações e códigos dos principais algoritmos:
 - Árvore
   - Árvore Binária
 
-
-
 Status do repositório: em progresso
 
 Todos os desenhos foram feitos a mão pode mim :D
+
+### Autores
+* [Isadora Oliveira](https://github.com/isadoraoliv)
+
+### License
+
+This project is licensed under the Apache License 3.0 - see the [LICENSE.md](LICENSE.md) file for details
